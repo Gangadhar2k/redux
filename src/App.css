@@ -1,0 +1,9 @@
+.App_main{
+  display: flex;
+}
+
+.center{
+  display: flex;
+  flex-direction: column;
+  flex:0.60;
+}

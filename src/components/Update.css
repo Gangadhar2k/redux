@@ -1,0 +1,36 @@
+.update{
+    background-color: rgb(242, 244, 247);
+    padding: 5px;
+}
+
+.update>h1{
+    margin-left: 10px;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.warning{
+    background-color: burlywood;
+    border-radius: 5px;
+}
+
+.warning>h6{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.warning>h6>span{
+    font-weight: 600;
+}
+
+
+.btn-delete{
+    padding: 2px 5px;
+    color: white;
+    background-color: brown;
+    outline: none;
+    border: none;
+    border-radius:5px;
+    font-size: 20px;
+
+}

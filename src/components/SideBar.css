@@ -1,0 +1,20 @@
+.sidebar{
+    background-color: aqua;
+    padding: 10px;
+    flex:0.15;
+    height: 84vh;
+}
+
+.option{
+    padding: 1px;
+    border-radius: 10px;
+}
+.option>p{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.option:hover{
+    background-color: aliceblue;
+}

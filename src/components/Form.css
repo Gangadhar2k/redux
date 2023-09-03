@@ -1,0 +1,28 @@
+.form{
+    padding: 5px;
+}
+
+.form>h3{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+
+form>div{
+    padding: 10px;
+}
+
+form>div>label{
+    font-size: 15px;
+    display: block;
+    margin-left: 3px;
+}
+
+.input-box{
+    outline: none;
+    border:1px solid blueviolet ;
+    border-radius: 3px;
+    font-size: 18px;
+   margin: 5px 0px;
+   padding: 5px;
+}
